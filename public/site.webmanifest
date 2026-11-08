@@ -1,0 +1,13 @@
+{
+  "name": "Blue Haven Pups",
+  "short_name": "Blue Haven",
+  "description": "Home-raised toy puppies from a small family boutique breeder.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F5F7F9",
+  "theme_color": "#F5F7F9",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
